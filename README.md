@@ -4,9 +4,9 @@ This project uses Angular to build a simple to-do-list. You can add the items an
 # QuickStart
 1. Clone the repository
 2. Navigate to to-do-list
-3. npm install
-4. Run server: '''json-server `<path-name of server/db.json>` --watch'''
-5. ng serve
+3. > `npm install`
+4. Run server: >`json-server <path-name of server/db.json> --watch`
+5. Run >`ng serve` in another terminal
 6. Open your browser and navigate to `http://localhost:4200/`
 
 
